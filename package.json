@@ -1,0 +1,25 @@
+{
+  "name": "args-validator",
+  "version": "1.0.0",
+  "description": "Zero dependency. Zero configuration. Hassle free validator. Very readable.",
+  "main": "ArgumentValidator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddziaduch/args-validator.git"
+  },
+  "keywords": [
+    "argument",
+    "arguments",
+    "validator",
+    "validators"
+  ],
+  "author": "Damian Dziaduch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddziaduch/args-validator/issues"
+  },
+  "homepage": "https://github.com/ddziaduch/args-validator#readme"
+}
